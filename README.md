@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**mnusrat786/mnusrat786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Osama Nusrat**, an **AI Researcher** with a keen interest in **Multimodal Learning, NLP, and Computer Vision**.
 
-Here are some ideas to get you started:
+- 🎯 **Currently Exploring:** AI models that integrate text, images, and audio
+- 🏆 **Past Research:** NLP, Sentiment Analysis, including Depression Detection and Emoji Prediction in Tweets using BERT ([arXiv](https://arxiv.org/abs/2404.13104), [arXiv](https://arxiv.org/abs/2307.02054))
+- 🚀 **Passionate About:** Learning, building, and solving real-world AI challenges
+- 📍 **Based in:** Islamabad, Pakistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Contact
+- 💼 **LinkedIn:** [Osama Nusrat](https://www.linkedin.com/in/osama-nusrat)
+- 📧 **Email:** osamanusrat786@gmail.com
+- 🔗 **GitHub:** [mnusrat786](https://github.com/mnusrat786)
+
+---
+
